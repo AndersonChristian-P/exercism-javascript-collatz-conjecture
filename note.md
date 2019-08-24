@@ -1,0 +1,1 @@
+to come up with the answer I used a recursive function
